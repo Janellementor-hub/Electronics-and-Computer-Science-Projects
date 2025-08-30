@@ -3,5 +3,5 @@ This project introduced various microcontroller architectures, syntax and progra
 
 ##### REQUIREMENTS
 -Flash an LED at 1HZ, 5HZ, 20HZ on port pin 4 <br>
--Read 2 input switches on port pins 3 and 5
--Activate a buzzer for 1 second when both switches are pressed simultaneously
+-Read 2 input switches on port pins 3 and 5 <br>
+-Activate a buzzer for 1 second when both switches are pressed simultaneously <br>
